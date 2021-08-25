@@ -45,7 +45,7 @@
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
   <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
 </p>
--->
+
 
 <hr>
 
@@ -80,6 +80,7 @@
     ⭐️ From <a href="https://github.com/zumrudu-anka/">zumrudu-anka</a>
 </p>
 
+-->
   
 
 <!--
