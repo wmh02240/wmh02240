@@ -1,6 +1,4 @@
-[![WMH's github stats](https://github-readme-stats.vercel.app/api?username=wmh02240)](https://github.com/wmh02240/github-readme-stats)
-
-<h3 align="center">Hello there, I'm Osman 👋</h3>
+<h3 align="center">Hello there, I'm WMH 👋</h3>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -49,7 +47,7 @@
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/wmh02240/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=wmh02240&show_icons=true&theme=gotham"></a>
 
 <hr>
 
