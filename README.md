@@ -24,7 +24,6 @@
 </p>
 
 <hr>
-<hr>
 
 <a href="https://github.com/wmh02240/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=wmh02240&show_icons=true&theme=gotham"></a>
 
