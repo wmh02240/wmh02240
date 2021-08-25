@@ -24,6 +24,11 @@
 </p>
 
 <hr>
+<hr>
+
+<a href="https://github.com/wmh02240/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=wmh02240&show_icons=true&theme=gotham"></a>
+
+<hr>
 
 <!--
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
@@ -45,13 +50,6 @@
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
   <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
 </p>
-
-
-<hr>
-
-<a href="https://github.com/wmh02240/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=wmh02240&show_icons=true&theme=gotham"></a>
-
-<hr>
 
 <h2 align="center">Repositories</h2>
 
