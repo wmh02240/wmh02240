@@ -7,7 +7,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
+  Hi, I'm WMH, Computer Engineer & Software Developer from Turkey
   <br>
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department
@@ -25,6 +25,7 @@
 
 <hr>
 
+<--!
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
@@ -44,6 +45,7 @@
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
   <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
 </p>
+-->
 
 <hr>
 
