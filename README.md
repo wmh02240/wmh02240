@@ -25,7 +25,7 @@
 
 <hr>
 
-<--!
+<!--
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
