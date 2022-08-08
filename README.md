@@ -20,7 +20,7 @@
   <br>
   💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">minhuiwon@163.com</a>
 </p>
 
 <hr>
